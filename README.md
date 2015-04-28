@@ -1,4 +1,4 @@
 Kemari-Projects
 ===============
 
-projects done in classes 
+There are some of my code samples I've completed on codeEval.com.
